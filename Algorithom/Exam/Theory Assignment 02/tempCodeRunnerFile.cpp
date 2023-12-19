@@ -1,0 +1,1 @@
+rintf("Scenario #%d: %d\n",f++,dp[n+1][k]);
